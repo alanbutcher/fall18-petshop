@@ -1,6 +1,6 @@
 let mongoose = require('mongoose')
 //this is the only line that will change from project to project
-const connectionString = 'mongodb://student:student1@ds031108.mlab.com:31108/petshop'
+const connectionString = 'mongodb://student:a12345@ds064718.mlab.com:64718/petshop'
 //
 let connection = mongoose.connection
 
